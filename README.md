@@ -29,8 +29,7 @@ Ensure that the explanation covers the following aspects present in the email co
 
 **Attachments**
 
-## Demo:
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/zJ8A0TOoNLg)
+## Captures:
 
 
 ## Future Improvements
