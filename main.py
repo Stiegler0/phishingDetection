@@ -156,12 +156,3 @@ or any other relevant information that might help in assessing the email's legit
 if __name__ == "__main__":
     main()
 
-#"""
-#if user_question:
-    #    pinecone_index_name = "presidential-speeches"
-   #     relevant_excerpts = get_relevant_excerpts(user_question, docsearch)
-  #      response = presidential_speech_chat_completion(client, model, user_question, relevant_excerpts, additional_context)
- #       st.write(response)
-#"""
-
-
