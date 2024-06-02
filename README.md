@@ -24,5 +24,9 @@ Ensure that the explanation covers the following aspects present in the email co
 **Requests for Personal Information**
 **Attachments**
 
+## Future Improvements
+**Front-End Design:** Enhance the user experience by improving the front-end design of the application, making it more visually appealing and user-friendly.
+**Integration with RAG Models:** Explore the integration of RAG (Retrieval-Augmented Generation) models to further enhance the accuracy of phishing detection. By training the model on external data, we can potentially improve the app's ability to identify phishing attempts with greater precision.
+
 ## Contributing
 Contributions to the improvement of the Phishing Detection App are welcome! If you have any suggestions or feedback, please feel free to reach out or contribute directly on the GitHub repository.
