@@ -1,0 +1,8 @@
+Dear User,
+
+Your account has been suspended due to suspicious activity. To restore access, please click on the following link and verify your account information: http://fakebank.com/verify
+
+Failure to do so within 24 hours will result in permanent suspension of your account.
+
+Best regards,
+Fake Bank Support Team
