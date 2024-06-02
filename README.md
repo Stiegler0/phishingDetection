@@ -23,3 +23,6 @@ Ensure that the explanation covers the following aspects present in the email co
 **Urgency and Threats**
 **Requests for Personal Information**
 **Attachments**
+
+## Contributing
+Contributions to the improvement of the Phishing Detection App are welcome! If you have any suggestions or feedback, please feel free to reach out or contribute directly on the GitHub repository.
