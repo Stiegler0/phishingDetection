@@ -30,7 +30,7 @@ Ensure that the explanation covers the following aspects present in the email co
 **Attachments**
 
 ## Demo:
-<iframe width="560" height="315" src="https://youtu.be/zJ8A0TOoNLg" frameborder="0" allowfullscreen></iframe>
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/zJ8A0TOoNLg)
 
 
 ## Future Improvements
