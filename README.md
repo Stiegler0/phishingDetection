@@ -18,10 +18,15 @@ The Phishing Detection App is a user-friendly tool designed to  analyze emails a
 Ensure that the explanation covers the following aspects present in the email content:
 
 **Sender's Email Address**
+
 **Language and Grammar**
+
 **Links and URLs**
+
 **Urgency and Threats**
+
 **Requests for Personal Information**
+
 **Attachments**
 
 ## Future Improvements
